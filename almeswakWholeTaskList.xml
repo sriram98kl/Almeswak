@@ -5,7 +5,7 @@
     <classes>
    
 
-       <!--<class name="pagesTestCasesYasasiiWeb.Almeswak_MergedPatient_TestcaseYW"/>   
+       <!--<class name="pagesTestCasesYasasiiWeb.Almeswak_MergedPatient_TestcaseYW"/>   -->
        <class name="pagesTestCasesYasasiiWeb.Almeswak_FO_ClosedEncounter_TestcaseYW"/>    
        <class name="pagesTestCasesYasasiiWeb.Almeswak_AdjustmentRefund_TestCaseYW"/>
        <class name="pagesTestCasesYasasiiWeb.Almeswak_FullPatientRegistration_TestCaseYW"/>
@@ -13,7 +13,7 @@
        <class name="pagesTestCasesYasasiiWeb.Almeswak_EMR_Dermotology_TestcaseYW"/> 
        <class name="pagesTestCasesYasasiiWeb.Almeswak_AdvanceFlow_TestcaseYW"/>
        <class name="pagesTestCasesYasasiiWeb.Almeswak_outsider_patientFlow_TestCaseYW"/>  
-       <class name="pagesTestCasesYasasiiWeb.Almeswak_Appointment_master_blockAndfreeze_TestcaseYW"/>    -->
+       <class name="pagesTestCasesYasasiiWeb.Almeswak_Appointment_master_blockAndfreeze_TestcaseYW"/>    
        <class name="pagesTestCasesYasasiiWeb.Almeswak_BlockandFreeze_TestcaseYW"/>    
        <class name="pagesTestCasesYasasiiWeb.Almeswak_Nursenote_consentForm_TestCaseYW"/>
       <class name="pagesTestCasesYasasiiWeb.Almeswak_EMR_DentalAssesement_TestcaseYW"/>
